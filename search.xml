@@ -19,18 +19,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>我好懒啊。。。</title>
-    <url>/essay/iamsolazy/</url>
-    <content><![CDATA[<p>2021年8月份就心血来潮搭建了博客，结果一点有质量的文章都没得。。。</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>发呆</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第一篇咯</title>
     <url>/essay/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%92%AF/</url>
     <content><![CDATA[<p>  生命在于折腾，第一篇算开始咯</p>
@@ -38,19 +26,6 @@
       <categories>
         <category>随笔</category>
       </categories>
-  </entry>
-  <entry>
-    <title>饥荒64位独立服务器</title>
-    <url>/game/dontstarveserver/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-      <tags>
-        <tag>饥荒</tag>
-        <tag>独立服务器</tag>
-        <tag>server</tag>
-      </tags>
   </entry>
   <entry>
     <title>分布式</title>
@@ -118,6 +93,31 @@
       <tags>
         <tag>分布式</tag>
         <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>饥荒64位独立服务器</title>
+    <url>/game/dontstarveserver/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>饥荒</tag>
+        <tag>独立服务器</tag>
+        <tag>server</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我好懒啊。。。</title>
+    <url>/essay/iamsolazy/</url>
+    <content><![CDATA[<p>2021年8月份就心血来潮搭建了博客，结果一点有质量的文章都没得。。。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>发呆</tag>
       </tags>
   </entry>
   <entry>
